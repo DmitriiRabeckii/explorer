@@ -2,7 +2,7 @@
     "chain_name": "haqq",
     "coingecko": "",
     "api": ["https://rest.cosmos.testedge.haqq.network/"],
-    "rpc": ["http://5.161.154.109:36657/"],
+    "rpc": ["https://rpc.tm.testedge.haqq.network/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.3",
     "coin_type": "60",
